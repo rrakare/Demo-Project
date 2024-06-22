@@ -51,7 +51,7 @@ public class EnterInsuratDataPageObjects {
 	WebElement btn_next;
 	
 	//init
-	public EnterInsuratDataPageObjects() {
-		PageFactory.initElements(driver, this);
-	}
+//	public EnterInsuratDataPageObjects() {
+//		PageFactory.initElements(driver, this);
+//	}
 }

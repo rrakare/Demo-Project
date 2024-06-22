@@ -35,8 +35,8 @@ public class EnterVehicleDataPageObjects {
 	WebElement btn_next;
 	
 	//init
-	public EnterVehicleDataPageObjects() {
-		PageFactory.initElements(driver, this);
-	}
+//	public EnterVehicleDataPageObjects() {
+//		PageFactory.initElements(driver, this);
+//	}
 	
 }

@@ -31,7 +31,7 @@ public class EnterProductDataPageObjects {
 	@FindBy(id="nextselectpriceoption")
 	WebElement btn_next;
 
-	public EnterProductDataPageObjects() {
-		PageFactory.initElements(driver, this);
-	}
+//	public EnterProductDataPageObjects() {
+//		PageFactory.initElements(driver, this);
+//	}
 }

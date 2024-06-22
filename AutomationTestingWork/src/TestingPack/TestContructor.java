@@ -10,7 +10,7 @@ public class TestContructor {
 		
 	}
 
-	TestContructor(){
+	 TestContructor(){
 		System.out.println("I am from non parameterized constructor");
 	}
 
